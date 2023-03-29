@@ -1,5 +1,5 @@
 # design-portfolio
-* Olá!
+#Olá!
 
 Este é o meu portfólio de artes e trabalhos gráficos, tanto voltados para o desenvolvimento de produtos, anúncios, templates e logotipos.
 Todos os trabalhos que eu realizar serão contidos neste repositório, para que possam ser também catalogados nesta plataforma, além do Drive.
