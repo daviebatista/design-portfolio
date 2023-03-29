@@ -6,10 +6,10 @@ Todos os trabalhos que eu realizar serão contidos neste repositório, para que 
 
 # Trabalhos:
 * Soleah:
-  > Newsletter
-  > Stories
-  > Instagram Feed
-  > Insagram Ads
+  > Newsletter;
+  > Stories;
+  > Instagram Feed;
+  > Insagram Ads;
   
 * Black & White Tech:
   > Logotipo
