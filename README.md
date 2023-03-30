@@ -9,7 +9,7 @@ Todos os trabalhos que eu realizar serão contidos neste repositório, para que 
   > Newsletter;
   > Stories;
   > Instagram Feed;
-  > Insagram Ads;
+  > Instagram Ads;
   
 * Black & White Tech:
   > Logotipo
