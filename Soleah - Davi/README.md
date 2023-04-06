@@ -7,3 +7,6 @@ Seu nome deriva de um ritmo da dança flamenco, o soleá. Tal inspiração espan
 Além disso, possui outras linhas, como cosméticos, e acessórios e adereços de moda.
 
 Nesta pasta, estão contidos trabalhos artísticos que realizei para a marca, seguindo princípios do Web Design.
+
+* HTML da Newsletter:
+https://github.com/daviebatista/soleah-page
