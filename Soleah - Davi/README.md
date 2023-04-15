@@ -8,5 +8,3 @@ Além disso, possui outras linhas, como cosméticos, e acessórios e adereços d
 
 Nesta pasta, estão contidos trabalhos artísticos que realizei para a marca, seguindo princípios do Web Design.
 
-* HTML da Newsletter:
-https://github.com/daviebatista/soleah-page
