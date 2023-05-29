@@ -1,23 +1,41 @@
-# Portfólio de Design
-# Olá!
+# Design Portfolio
 
-Este é o meu portfólio de artes e trabalhos gráficos, tanto voltados para o desenvolvimento de produtos, anúncios, templates e logotipos.
-Todos os trabalhos que eu realizar serão contidos neste repositório, para que possam ser também catalogados nesta plataforma, além do Drive.
+![image](https://github.com/daviebatista/design-portfolio/assets/91736880/cc5270d7-99cd-4916-a207-950996257cad)
 
-# Trabalhos:
-* Soleah:
-  > Newsletter;
-  > Stories;
-  > Instagram Feed;
-  > Instagram Ads;
+This is my graphic and web design portfolio. Here, I'll armazenate all of my works done so far, so I can catalog the extension os my artworks.
+
+You can also check it in my <a href="">Google Drive folder</a>, if you'd wish to see the works in another environment.
+
+# Works so far:
+<a href="https://github.com/daviebatista/design-portfolio/tree/main/Soleah%20-%20Davi"><h2>Soleah</h2></a>
+<h6>Some Web Design mockups for the Soleah company:</h6>
+Newsletter;
+<br>
+Instagram Stories;
+<br>
+Instagram Feed;
+<br>
+Instagram Ads;
   
-* Black & White Tech:
-  > Logotipo
- 
-* Solever Energia Solar:
-  > Logotipo
+<h2>Black & White Tech</h2>
+Company Logo.
 
-![image](https://user-images.githubusercontent.com/91736880/228608583-238f9cd7-cd2d-4a2b-97d8-5b63b4eeec9c.png)
+<h2>Solever Energia Solar</h2>
+Company Logo.
+
+<h2>Technologies Logo's</h2>
+> SQL;
+<br>
+> Python;
+<br>
+> Figma;
+<br>
+> Docker.
+
+
+
+
+
 
  
 <br>
@@ -26,4 +44,3 @@ Todos os trabalhos que eu realizar serão contidos neste repositório, para que 
 </div>
 <br>
 
-Versão Atual: 1.0
